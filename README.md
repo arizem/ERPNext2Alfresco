@@ -4,4 +4,4 @@ Export ERPNext Documents to Alfresco automatically
 
 #### License
 
-MIT
+GPLv3
