@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include erpnext2alfresco *.css
+recursive-include erpnext2alfresco *.csv
+recursive-include erpnext2alfresco *.html
+recursive-include erpnext2alfresco *.ico
+recursive-include erpnext2alfresco *.js
+recursive-include erpnext2alfresco *.json
+recursive-include erpnext2alfresco *.md
+recursive-include erpnext2alfresco *.png
+recursive-include erpnext2alfresco *.py
+recursive-include erpnext2alfresco *.svg
+recursive-include erpnext2alfresco *.txt
+recursive-exclude erpnext2alfresco *.pyc
